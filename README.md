@@ -1,8 +1,8 @@
 # Recursos del curso intensivo de fullstack
 
-Este repositorio está publicado con GitHub Pages en http://beta.adalab.es/resources
+Este repositorio está publicado con GitHub Pages en http://beta.adalab.es/curso-intensivo-fullstack-recursos
 
-Para uno de estos recursos en tu código usa `http://beta.adalab.es/resources/FOLDER/FILE-NAME.EXT`.
+Para uno de estos recursos en tu código usa `http://beta.adalab.es/curso-intensivo-fullstack-recursos/FOLDER/FILE-NAME.EXT`.
 
 ## Colores corporativos de Adalab
 
