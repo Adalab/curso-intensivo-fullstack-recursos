@@ -8,24 +8,6 @@
   },
   "results": [
     {
-      "id": "16420102982746902",
-      "name": "undefined",
-      "counselor": "Dayana",
-      "promo": "O",
-      "speciality": "Python",
-      "social_networks": [
-        {
-          "name": "GitHub",
-          "url": "https://github.com/undefined"
-        },
-        {
-          "name": "LinkedIn",
-          "url": "https://www.linkedin.com/in/undefined/"
-        }
-      ],
-      "teams": []
-    },
-    {
       "id": "16420102983093087",
       "name": "Alejandra",
       "counselor": "Dayana",
