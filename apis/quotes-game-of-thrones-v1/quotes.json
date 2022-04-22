@@ -1,6 +1,17 @@
 [
   {
-    "sentence": "You love your children. It's your one redeeming quality. That and your cheekbones.",
+    "sentence": "All men must die, but we are not men.",
+    "character": {
+      "name": "Daenerys Targaryen",
+      "slug": "daenerys",
+      "house": {
+        "name": "House Targaryen of King's Landing",
+        "slug": "targaryen"
+      }
+    }
+  },
+  {
+    "sentence": "Love is more powerful than reason. We all know that.",
     "character": {
       "name": "Tyrion Lannister",
       "slug": "tyrion",
@@ -11,43 +22,32 @@
     }
   },
   {
-    "sentence": "Well, my brother has his sword, and I have my mind, and a mind needs books like a sword needs a whetstone.",
+    "sentence": "If you think this has a happy ending, you haven't been paying attention.",
     "character": {
-      "name": "Tyrion Lannister",
-      "slug": "tyrion",
+      "name": "Ramsay Bolton",
+      "slug": "ramsay",
       "house": {
-        "name": "House Lannister of Casterly Rock",
-        "slug": "lannister"
+        "name": "House Bolton of the Dreadfort",
+        "slug": "bolton"
       }
     }
   },
   {
-    "sentence": "I am your son. I have always been your son.",
+    "sentence": "There is only one war that matters. The Great War. And it is here.",
     "character": {
-      "name": "Tyrion Lannister",
-      "slug": "tyrion",
+      "name": "Jon Snow",
+      "slug": "jon",
       "house": {
-        "name": "House Lannister of Casterly Rock",
-        "slug": "lannister"
+        "name": "House Stark of Winterfell",
+        "slug": "stark"
       }
     }
   },
   {
-    "sentence": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.",
+    "sentence": "If you want a whore, buy one. If you want a Queen, earn her.",
     "character": {
-      "name": "Tyrion Lannister",
-      "slug": "tyrion",
-      "house": {
-        "name": "House Lannister of Casterly Rock",
-        "slug": "lannister"
-      }
-    }
-  },
-  {
-    "sentence": "The day will come when you think you are safe and happy, and your joy will turn to ashes in your mouth.",
-    "character": {
-      "name": "Tyrion Lannister",
-      "slug": "tyrion",
+      "name": "Cersei Lannister",
+      "slug": "cersei",
       "house": {
         "name": "House Lannister of Casterly Rock",
         "slug": "lannister"
