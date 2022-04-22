@@ -1,0 +1,57 @@
+[
+  {
+    "sentence": "You love your children. It's your one redeeming quality. That and your cheekbones.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "Well, my brother has his sword, and I have my mind, and a mind needs books like a sword needs a whetstone.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "I am your son. I have always been your son.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "The day will come when you think you are safe and happy, and your joy will turn to ashes in your mouth.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  }
+]
