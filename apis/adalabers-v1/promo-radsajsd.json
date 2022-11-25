@@ -27,7 +27,7 @@
         },
         {
           "module": "Módulo 2",
-          "name": "Awesome women",
+          "name": "Alohomora Cards",
           "scrum_master": false
         }
       ]
@@ -51,7 +51,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Descodigadas",
+          "name": "Awesome Women",
           "scrum_master": true
         }
       ]
@@ -71,7 +71,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Las 4 Fantásticas",
+          "name": "Las minion",
           "scrum_master": false
         }
       ]
@@ -95,7 +95,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Serendipia",
+          "name": "Coding time",
           "scrum_master": false
         }
       ]
@@ -115,14 +115,14 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "The Godmothers",
+          "name": "JavaScript's hunters",
           "scrum_master": true
         }
       ]
     },
     {
       "id": "1642010298449158",
-      "name": "Barbara",
+      "name": "Bárbara",
       "counselor": "Dayana",
       "promo": "R",
       "speciality": "Testing/QA",
@@ -139,7 +139,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Developers Squad",
+          "name": "JavaScript's hunters",
           "scrum_master": false
         }
       ]
@@ -163,7 +163,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Magas del código",
+          "name": "Las debbugueadoras",
           "scrum_master": false
         }
       ]
@@ -187,7 +187,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Developers Squad",
+          "name": "Coding time",
           "scrum_master": true
         }
       ]
@@ -215,7 +215,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Developers Squad",
+          "name": "Chamaleon Girls",
           "scrum_master": false
         }
       ]
@@ -239,7 +239,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Descodigadas",
+          "name": "Awesome Women",
           "scrum_master": false
         }
       ]
@@ -254,7 +254,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Serendipia",
+          "name": "Las minion",
           "scrum_master": true
         }
       ]
@@ -278,7 +278,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "The Godmothers",
+          "name": "Coding time",
           "scrum_master": true
         }
       ]
@@ -302,7 +302,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Super Programmers",
+          "name": "JavaScript's hunters",
           "scrum_master": false
         }
       ]
@@ -330,7 +330,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "3R Team",
+          "name": "Awesome Women",
           "scrum_master": false
         }
       ]
@@ -354,7 +354,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "3R Team",
+          "name": "Las debbugueadoras",
           "scrum_master": false
         }
       ]
@@ -378,7 +378,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Super Programmers",
+          "name": "Alohomora Cards",
           "scrum_master": true
         }
       ]
@@ -398,7 +398,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Developers Squad",
+          "name": "Coding time",
           "scrum_master": false
         }
       ]
@@ -422,7 +422,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "3R Team",
+          "name": "Las minion",
           "scrum_master": true
         }
       ]
@@ -446,7 +446,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Developers Squad",
+          "name": "Chamaleon Girls",
           "scrum_master": true
         }
       ]
@@ -470,7 +470,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Super Programmers",
+          "name": "Mothers of palettes",
           "scrum_master": true
         }
       ]
@@ -498,7 +498,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "The Godmothers",
+          "name": "Alohomora Cards",
           "scrum_master": false
         }
       ]
@@ -522,7 +522,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Las 4 Fantásticas",
+          "name": "Coding time",
           "scrum_master": true
         }
       ]
@@ -546,7 +546,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Descodigadas",
+          "name": "Las debbugueadoras",
           "scrum_master": true
         }
       ]
@@ -574,7 +574,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Super Programmers",
+          "name": "Las minion",
           "scrum_master": false
         }
       ]
@@ -598,7 +598,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Descodigadas",
+          "name": "Alohomora Cards",
           "scrum_master": false
         }
       ]
@@ -626,7 +626,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Code-Fighters.",
+          "name": "Star Cards",
           "scrum_master": true
         }
       ]
@@ -646,7 +646,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Code-Fighters.",
+          "name": "Awesome Women",
           "scrum_master": true
         }
       ]
@@ -666,7 +666,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "The Godmothers",
+          "name": "Las debbugueadoras",
           "scrum_master": false
         }
       ]
@@ -690,7 +690,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Serendipia",
+          "name": "Chamaleon Girls",
           "scrum_master": true
         }
       ]
@@ -718,7 +718,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Magas del código",
+          "name": "Star Cards",
           "scrum_master": true
         }
       ]
@@ -738,7 +738,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Magas del código",
+          "name": "Mothers of palettes",
           "scrum_master": false
         }
       ]
@@ -762,7 +762,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Code-Fighters.",
+          "name": "Star Cards",
           "scrum_master": false
         }
       ]
@@ -786,7 +786,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Serendipia",
+          "name": "JavaScript's hunters",
           "scrum_master": false
         }
       ]
@@ -810,7 +810,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Serendipia",
+          "name": "Star Cards",
           "scrum_master": false
         }
       ]
@@ -834,7 +834,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Las 4 Fantásticas",
+          "name": "Mothers of palettes",
           "scrum_master": true
         }
       ]
@@ -858,7 +858,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Las 4 Fantásticas",
+          "name": "Chamaleon Girls",
           "scrum_master": false
         }
       ]
@@ -878,7 +878,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Magas del código",
+          "name": "Alohomora Cards",
           "scrum_master": true
         }
       ]
@@ -893,7 +893,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "Descodigadas",
+          "name": "Mothers of palettes",
           "scrum_master": false
         }
       ]
@@ -913,7 +913,7 @@
       "teams": [
         {
           "module": "Módulo 2",
-          "name": "The Godmothers",
+          "name": "Star Cards",
           "scrum_master": false
         }
       ]
