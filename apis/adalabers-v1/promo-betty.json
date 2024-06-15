@@ -1,0 +1,99 @@
+{
+  "info": {
+    "count": 11,
+    "pages": 1,
+    "currentPage": 1,
+    "next": null,
+    "prev": null
+  },
+  "results": [
+    {
+      "name": "Jeannette",
+      "github": "jeannettearias",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Barcelona",
+      "numberOfPets": 1
+    },
+    {
+      "name": "Francheska",
+      "github": "francheskajcg",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Madrid",
+      "numberOfPets": 5
+    },
+    {
+      "name": "Victoria",
+      "github": "MVictoriaDoll",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Neder-landen",
+      "numberOfPets": 1
+    },
+    {
+      "name": "Laura",
+      "github": "laurarguezf",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Madrid",
+      "numberOfPets": 2
+    },
+    {
+      "name": "Ana",
+      "github": "aruiz982",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Madrid",
+      "numberOfPets": 1
+    },
+    {
+      "name": "Virginia",
+      "github": "virvilt",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Málaga",
+      "numberOfPets": 1
+    },
+    {
+      "name": "Yanru",
+      "github": "cristinazyr",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Madrid",
+      "numberOfPets": 2
+    },
+    {
+      "name": "Patricia",
+      "github": "PatriXcX",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Lleida",
+      "numberOfPets": 0
+    },
+    {
+      "name": "Alejandra",
+      "github": "alexlab84",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Madrid",
+      "numberOfPets": 0
+    },
+    {
+      "name": "Eva",
+      "github": "evasanzguerrero",
+      "promo": "B",
+      "tutor": "Iván",
+      "location": "Barcelona",
+      "numberOfPets": 1
+    },
+    {
+      "name": "Dayana",
+      "github": "dayana",
+      "promo": "Z",
+      "tutor": "Isa",
+      "location": "Albacete",
+      "numberOfPets": 0
+    }
+  ]
+}    
