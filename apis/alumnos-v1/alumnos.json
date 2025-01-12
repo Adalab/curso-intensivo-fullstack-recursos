@@ -1,0 +1,131 @@
+{
+    "info": {
+        "count": 20,
+        "pages": 1,
+        "currentPage": 1,
+        "next": null,
+        "prev": null
+    },
+    "results": [
+        {
+            "num_expediente": 1001,
+            "nombre": "Ana",
+            "apellidos": "Martínez",
+            "fecha_nacimiento": "2005-03-15"
+        },
+        {
+            "num_expediente": 1002,
+            "nombre": "Luis",
+            "apellidos": "Fernández",
+            "fecha_nacimiento": "2004-11-22"
+        },
+        {
+            "num_expediente": 1003,
+            "nombre": "Clara",
+            "apellidos": "Ruiz",
+            "fecha_nacimiento": "2006-01-10"
+        },
+        {
+            "num_expediente": 1004,
+            "nombre": "Pedro",
+            "apellidos": "Sánchez",
+            "fecha_nacimiento": "2005-07-08"
+        },
+        {
+            "num_expediente": 1005,
+            "nombre": "Lucía",
+            "apellidos": "Torres",
+            "fecha_nacimiento": "2004-09-18"
+        },
+        {
+            "num_expediente": 1006,
+            "nombre": "Javier",
+            "apellidos": "González",
+            "fecha_nacimiento": "2006-06-24"
+        },
+        {
+            "num_expediente": 1007,
+            "nombre": "María",
+            "apellidos": "López",
+            "fecha_nacimiento": "2005-04-10"
+        },
+        {
+            "num_expediente": 1008,
+            "nombre": "David",
+            "apellidos": "Pérez",
+            "fecha_nacimiento": "2004-12-12"
+        },
+        {
+            "num_expediente": 1009,
+            "nombre": "Sara",
+            "apellidos": "García",
+            "fecha_nacimiento": "2005-08-15"
+        },
+        {
+            "num_expediente": 1010,
+            "nombre": "Ricardo",
+            "apellidos": "Martín",
+            "fecha_nacimiento": "2006-03-22"
+        },
+        {
+            "num_expediente": 1011,
+            "nombre": "Alba",
+            "apellidos": "Vázquez",
+            "fecha_nacimiento": "2004-05-05"
+        },
+        {
+            "num_expediente": 1012,
+            "nombre": "Carlos",
+            "apellidos": "Serrano",
+            "fecha_nacimiento": "2005-02-28"
+        },
+        {
+            "num_expediente": 1013,
+            "nombre": "Elena",
+            "apellidos": "Ramírez",
+            "fecha_nacimiento": "2006-08-01"
+        },
+        {
+            "num_expediente": 1014,
+            "nombre": "Iván",
+            "apellidos": "Hernández",
+            "fecha_nacimiento": "2005-10-30"
+        },
+        {
+            "num_expediente": 1015,
+            "nombre": "Laura",
+            "apellidos": "Jiménez",
+            "fecha_nacimiento": "2004-07-14"
+        },
+        {
+            "num_expediente": 1016,
+            "nombre": "Tomás",
+            "apellidos": "López",
+            "fecha_nacimiento": "2005-12-18"
+        },
+        {
+            "num_expediente": 1017,
+            "nombre": "Paula",
+            "apellidos": "Fernández",
+            "fecha_nacimiento": "2006-02-06"
+        },
+        {
+            "num_expediente": 1018,
+            "nombre": "Mario",
+            "apellidos": "Díaz",
+            "fecha_nacimiento": "2004-11-30"
+        },
+        {
+            "num_expediente": 1019,
+            "nombre": "Raquel",
+            "apellidos": "González",
+            "fecha_nacimiento": "2005-09-23"
+        },
+        {
+            "num_expediente": 1020,
+            "nombre": "Jorge",
+            "apellidos": "Álvarez",
+            "fecha_nacimiento": "2006-05-17"
+        }
+    ]
+}
