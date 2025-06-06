@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Lola",
+    "lastname": "Martinez",
+    "phone": "603256289",
+    "email": "lmartinez@adalab.es",
+    "department": "CEO",
+    "location": "Brussels"
+  },
+  {
+    "name": "Martha",
+    "lastname": "Houston",
+    "phone": "612435678",
+    "email": "mhouston@adalab.es",
+    "department": "Sales",
+    "location": "Brussels"
+  },
+  {
+    "name": "Lillie",
+    "lastname": "Moore",
+    "phone": "632456789",
+    "email": "lillie@adalab.es",
+    "department": "Marketing",
+    "location": "Amsterdam"
+  },
+  {
+    "name": "Jane",
+    "lastname": "Norton",
+    "phone": "603256679",
+    "email": "janenorton@adalab.es",
+    "department": "Marketing",
+    "location": "Las Pedroñeras"
+  }
+]
